@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Alfonso Sánchez</h1>
-<h3 align="center">Soy un intento de Frontend a una edad madura.</h3>
+<h3 align="center">Soy un intento de Frontend</h3>
 
 - 🌱 I’m currently learning **html, css, java, javascript**
 
