@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Alfonso Sánchez</h1>
 <h3 align="center">Soy un intento de Desarrollador</h3>
 
--   🌱 Actualmente estoy aprendiendo **html, css, java, javascript, SQL**
+-   🌱 Actualmente estoy aprendiendo **HTML, CSS, JAVA, JAVASCRIPT, SQL**
 
 -   📚 Cursando **CFGS en Desarrollo de Aplicaciones Web(2°)**
 
