@@ -14,9 +14,9 @@
 
 <h3 align="center">Lenguages y herramientas</h3>
 <p align="center"> 
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-<a href="https://www.oracle.com/es/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="oracle SQL" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.java.com/es/" target="_blank" rel="noreferrer" style="padding:10px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+<a href="https://www.oracle.com/es/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer" style="padding:10px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="oracle SQL" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding:10px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding:10px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding:10px"> <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
