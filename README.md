@@ -9,7 +9,8 @@
 
 <h3 align="center">Redes Sociales</h3>
 <p align="center">
-<a href="https://twitter.com/arfonfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arfonfo" height="30" width="40" /></a>
+<a href="https://twitter.com/arfonfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arfonfo-twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arfonfo/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="arfonfo-instagram" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguages y herramientas</h3>
