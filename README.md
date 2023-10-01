@@ -1,7 +1,7 @@
 ## Hola 👋, me llamo Alfonso Sánchez
 ### Intento de Desarrollador
 
-   🌱 Actualmente estoy aprendiendo **HTML, CSS, JAVA, JAVASCRIPT, SQL**
+   🌱 Actualmente estoy aprendiendo **HTML, CSS, JAVA, JAVASCRIPT, SQL, PHP**
 
    📚 Cursando **CFGS en Desarrollo de Aplicaciones Web(2°)**
 
