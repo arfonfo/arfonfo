@@ -1,9 +1,9 @@
 ## Hola 👋, me llamo Alfonso Sánchez
 ### Developer in progress
 
-   🌱 Actualmente estoy aprendiendo **HTML, CSS, JAVA, JAVASCRIPT, SQL, PHP**
+   🌱 Actualmente estoy aprendiendo **Angular y Spring**
 
-   📚 Cursando **CFGS en Desarrollo de Aplicaciones Web(2°)**
+   📚 Graduado en **Desarrollo de Aplicaciones Web**
 
    📫 Contacta conmigo **alfonsojose.sanchez@gmail.com**
 
@@ -12,11 +12,11 @@
 > __Presentación en código__
 
 ```java
-class Alfonso{
+class Alfonso {
 	final String firstName = "Alfonso José";
 	final String lastName = "Sánchez Costa";
-	final LocalDate fechaNacimiento = LocalDate.of(1990, 11, 11);
-	int age = Period.between(fechaNacimiento, LocalDate.now()).getYears();
+	final LocalDate birthDate = LocalDate.of(1990, 11, 11);
+	int age = Period.between(birthDate, LocalDate.now()).getYears();
 	String job = "Dev in progress";
 	String[] hobbies = {"Swimming", "Running", "Coding", "Tech", "Horror movies", "Gaming"};
 }
