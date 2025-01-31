@@ -8,12 +8,14 @@
 👨🏻‍💻 Apasionado por la tecnología y el desarrollo web. Disfruto trabajando en frontend con Vue.js y Angular, y me gusta desarrollar en backend con Java.
 
 📫 **Contacta conmigo**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfonsojsanchez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonsojose.sanchez@gmail.com)
 
 </br>
 
 >__Presentación en código__
+
 ![Mi presentación en código](https://i.imgur.com/Re26DLo.png)
 
 </br>
