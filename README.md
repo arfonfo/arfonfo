@@ -1,11 +1,11 @@
 ## Hola 👋, me llamo Alfonso Sánchez
-### Developer in progress
+### Desarrollador Web
 
-   🌱 Actualmente estoy aprendiendo **Angular y Spring**
+🌱 Actualmente estoy aprendiendo **Angular y Spring**
 
-   📚 Graduado en **Desarrollo de Aplicaciones Web**
+📚 Graduado en **Desarrollo de Aplicaciones Web**
 
-   📫 Contacta conmigo **alfonsojose.sanchez@gmail.com**
+📫 Contacta conmigo **alfonsojose.sanchez@gmail.com**
 
 </br>
 
@@ -17,7 +17,7 @@ class Alfonso {
 	final String lastName = "Sánchez Costa";
 	final LocalDate birthDate = LocalDate.of(1990, 11, 11);
 	int age = Period.between(birthDate, LocalDate.now()).getYears();
-	String job = "Dev in progress";
+	String job = "Desarrollador Web";
 	String[] hobbies = {"Swimming", "Running", "Coding", "Tech", "Horror movies", "Gaming"};
 }
 ```
