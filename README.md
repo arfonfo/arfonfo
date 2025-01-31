@@ -16,7 +16,7 @@
 
 >__Presentación en código__
 
-![Mi presentación en código](https://i.imgur.com/Re26DLo.png)
+![Mi presentación en código](https://i.imgur.com/x73JcXL.png)
 
 </br>
 
