@@ -5,22 +5,23 @@
 
 📚 Graduado en **Desarrollo de Aplicaciones Web**
 
-📫 Contacta conmigo **alfonsojose.sanchez@gmail.com**
+👨🏻‍💻 Apasionado por la tecnología y el desarrollo web. Disfruto trabajando en frontend con Vue.js y Angular, y me gusta desarrollar en backend con Java.
+
+📫 **Contacta conmigo**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alfonsojsanchez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonsojose.sanchez@gmail.com)
 
 </br>
 
-> __Presentación en código__
+>__Presentación en código__
+![Mi presentación en código](https://i.imgur.com/Re26DLo.png)
 
-```java
-class Alfonso {
-	final String firstName = "Alfonso José";
-	final String lastName = "Sánchez Costa";
-	final LocalDate birthDate = LocalDate.of(1990, 11, 11);
-	int age = Period.between(birthDate, LocalDate.now()).getYears();
-	String job = "Desarrollador Web";
-	String[] hobbies = {"Swimming", "Running", "Coding", "Tech", "Horror movies", "Gaming"};
-}
-```
+</br>
+
+### 🚀 Proyectos Destacados
+- [WeatherApp en HTML, CSS y JS](https://github.com/arfonfo/WeatherApp) 
+- [Employees Review en HTML, CSS y JS](https://github.com/arfonfo/Reviews)
+
 </br>
 
 ### RRSS
@@ -42,4 +43,6 @@ class Alfonso {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfonfo&show_icons=true&theme=radical)
 
