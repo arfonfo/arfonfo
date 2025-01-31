@@ -46,5 +46,7 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</br>
+
 ![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfonfo&show_icons=true&theme=radical)
 
